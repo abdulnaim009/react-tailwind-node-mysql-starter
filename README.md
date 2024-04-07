@@ -24,9 +24,10 @@ Steps to create a new react app using Vite
 
    ```sh
    cd client
-
+   ```
+   ```sh
    npm install -D tailwindcss postcss autoprefixer
-
+   ```
+   ```sh
    npx tailwind init -p
-
    ```
